@@ -1,2 +1,2 @@
 # C-Samples
-C code samples
+C code samples from coursework in Operating Systems and Systems Programming.
